@@ -1,5 +1,9 @@
 # 렌주 오목 AlphaZero
 
+![img](https://github.com/user-attachments/assets/818f56f0-992d-42cd-bfbb-db64463a944b)
+
+[접속해보기](https://december-ok.github.io/gomoku_AlphaZero/web/gomoku.html)
+
 자기대국 MCTS + ResNet으로 학습하는 15x15 렌주룰 오목 AI.
 
 ## 사용
